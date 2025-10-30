@@ -1,0 +1,3 @@
+colorization_release_v2.caffemodel is not added bcs of sixe you can download directly from 
+
+https://github.com/dath1s/colorizor/blob/main/colorization_release_v2.caffemodel
