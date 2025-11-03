@@ -7,6 +7,9 @@
 
 ---
 
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHZrbGEyeWNpcXlxcmxjdno0MXFheHZ4enhnZ21wdHZqajM2a3Z0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1XH2PDwg0dtEueYg/giphy.gif" width="600px" alt="Colorization Demo"> </p>
+
+
 ## 📌 Project Overview
 
 This project demonstrates **automatic colorization of black-and-white images** using a **pre-trained deep learning model** in OpenCV.
